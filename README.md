@@ -22,7 +22,7 @@
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25" /> `> whoami`
 
-```yml
+
 identity : Arlo
 role     : Software Engineer & Game Developer
 os       : Ubuntu Linux (Thinking in terminal, executing in real life)
