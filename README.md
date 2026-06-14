@@ -1,43 +1,71 @@
-MRXR-DEV/README.md
-MR.XR Banner
+<p align="center">
+  <img src="https://capsule-render.vercel.sh/content?type=cyberpunk&bgColor=auto&height=200&section=header&text=WELCOME%20TO%20MY%20CYBER%20REALM&fontSize=40&animation=fadeIn&fontAlignY=50&theme=tokyonight" width="100%" />
+</p>
 
-X   GitHub   Visitors
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=00FFCC&center=true&vCenter=true&width=700&lines=I'm+a+Python+Expert;Machine+Learning+%26+Deep+Learning+Pro;Core+Game+Developer+(Godot);Full-Stack+Web+Designer;Linux+Power+User" alt="Typing SVG" />
+  </a>
+</h1>
 
-┌──────────────────────────────────────────┐
-|  MR.XR  •  Amir                          |
-|                                          |
-|  Game Dev  •  Web Designer               |
-|  Software Engineer                       |
-|  Co-Founder of INNERVOID                 |
-|  Artificial Intelligence & AI Developer  |
-|                                          |
-|  "Code is for humans to read,            |
-|   machines to run."                      |
-└──────────────────────────────────────────┘
-Caution
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM2Zic3BndXNpcXN2b3FtcW9veHh5cHNoN3pndW9maXgwbW9wN3FhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3og0IPxYQf7pZ9w1zi/giphy.gif" width="120" />
+</p>
 
-About Me
-I don’t just write code; I engineer digital worlds from scratch. My relationship with technology and programming isn't just about a career—it's a deep-rooted passion for understanding how machines think and how structures are built.
+---
 
-I operate as a Software Engineer, Game Developer, AI Developer, and Web Designer. Moving fluidly between different layers of technology is where I thrive. Whether it's managing low-level logic and memory in C/C++, architecting back-end ecosystems with Python (Django, Flask, Node.js), or crafting intelligent behaviors through AI development, I approach every project with strict precision.
+## ⚡ ABOUT ME
+> "مرزهای دنیای واقعی با کدهای من جابه‌جا می‌شن. من کدهایی می‌نویسم که سیستم‌ها رو به زانو درمیارن و هوش مصنوعی‌هایی خلق می‌کنم که فکر می‌کنند."
 
-On the creative and visual front, I bridge the gap between aesthetics and functionality. From designing responsive, modern user interfaces using HTML, CSS, and JavaScript, to developing complex interactive systems in gaming through Blueprints, I ensure that every line of code serves a purpose.
+* 🤖 **AI/ML Specialist**: متخصص در پیاده‌سازی معماری‌های پیچیده Machine Learning و Deep Learning با پایتون.
+* 🎮 **Game Developer**: خلق بازی‌های دوبعدی و سه‌بعدی خفن با موتور قدرتمند Godot.
+* 🌐 **Web Architect**: طراحی فرانت‌اند جادویی و ریسپانسیو با انیمیشن‌های خالص CSS/JS.
+* 🐧 **Linux Core**: مسلط به اعماق سیستم‌عامل لینوکس و بهینه‌سازی‌های سنگین.
 
-For me, programming is an art of continuous problem-solving. I am driven by an insatiable curiosity for computing and a commitment to building robust, high-performance software that pushes boundaries.
+---
 
-🛠️ Skills
-HTML5 CSS3 JavaScript Python C C++ NodeJS Godot Unreal Engine
+## 🛠 TECH STACK (Neon Glowing Icons)
 
-Interests & Mastery
-⚙️ Programming (90%)
+### 🧠 AI & Backend
+<p align="left">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/Deep_Learning-FF6F20?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+</p>
 
-🎵 Music (100%)
+### 🎮 Game Dev
+<p align="left">
+  <img src="https://img.shields.io/badge/Godot_Engine-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
+</p>
 
-🌐 Web & Data (80%)
+### 🌐 Web Development
+<p align="left">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+</p>
 
-🎮 Gaming (75%)
+---
 
-🕹️ Game Dev (65%)
+## 📊 CYBER METRICS & STATS
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight" width="48%" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&langs_count=7" width="60%" />
+</p>
 
-"Machines outlive flesh, but code outlives time; I don't just build, I leave an empire in the syntax."
+---
+
+## ⚡ RECENT ACTIVITY
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyonight" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=PROFILE+VIEWS&color=00FFCC&style=flat-square" alt="Views" />
+</p>
