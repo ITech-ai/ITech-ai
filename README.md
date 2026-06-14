@@ -1,41 +1,57 @@
 <div align="center">
 
-# 🚀 Hello, I'm Arlo
+<!-- Wave banner SVG -->
+<img src="./banner.svg" width="100%" alt="ARLO banner"/>
 
-### Full-Stack AI Engineer & Developer
-*Building the future with code, one commit at a time.*
+<br/>
 
----
+### hey, i'm **ARLO**
+*developer · builder · always learning*
 
-### 🛠 Tech Stack & Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
-
----
-
-### 📈 My Stats & Progress
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Arlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Arlo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
 
 ---
 
-### 👨‍💻 Currently Working On
-- 🤖 **AI Projects:** Developing custom AI models and integrations.
-- 🎮 **Game Dev:** Leveraging Godot Engine & GDScript for high-performance indie games.
-- 💻 **Systems:** Deep-diving into C++ optimization and Linux environment mastery.
-- 🚀 **Learning:** Always expanding the stack to stay on the bleeding edge.
+```
+  currently working on → AI projects
+  environment          → Ubuntu · Windows
+  engine               → Godot + GDScript
+  learning             → going deeper every day
+```
 
 ---
 
-### ⚡ Fun Fact
-*I don't just write code; I build systems that challenge the limits of performance and intelligence.*
+### stack
+
+<div align="center">
+
+![Python](https://img.shields.io/badge/Python-90%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
+![C++](https://img.shields.io/badge/C++-70%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
+![GDScript](https://img.shields.io/badge/GDScript-65%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
+![AI%2FML](https://img.shields.io/badge/AI%2FML-60%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
+
+</div>
+
+```
+Python        ████████████████████░░  90%
+JavaScript    ██████████████████░░░░  80%
+C++           ████████████████░░░░░░  70%
+GDScript      ███████████████░░░░░░░  65%
+AI / ML       ██████████████░░░░░░░░  60%
+Frontend      █████████████░░░░░░░░░  55%
+```
+
+---
+
+### focus
+
+> building things with AI · web dev · game dev with Godot · going deeper on C++
+
+---
+
+<div align="center">
+
+*actively building · always learning · never stopping*
 
 </div>
