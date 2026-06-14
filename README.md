@@ -1,21 +1,14 @@
-<div align="center">
-  <!-- Dynamic Waving Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:111111,70:222222,100:444444&height=280&section=header&text=ARLO&fontSize=85&fontColor=ffffff&fontAlignY=45&desc=%5B%20SYSTEM%20ARCHITECT%20%C2%B7%20GAME%20DEVELOPER%20%C2%B7%20AI%20EXPLORER%20%5D&descAlignY=65&descSize=15&fontColor=dddddd&animation=fadeIn&stroke=555555&strokeWidth=1" alt="ARLO Banner"/>
-
-
-
-[![X](https://img.shields.io/badge/@Arlo_xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Arlo_xrg)
-
-&nbsp;
-
-[![LinkedIn](https://img.shields.io/badge/[[LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/arlo-xrg-445057360/)](https://x.com/Arlo_xrg))]
-
-&nbsp;
-
-
-
-![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
-&nbsp;
+<p align="center">
+  <a href="https://twitter.com/Arlo_xrg">
+    <img src="https://img.shields.io/badge/@Arlo_xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white" alt="X">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/arlo-xrg-445057360/">
+    <img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <img src="https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS" alt="Visitors">
+</p>
 
 ---
 
