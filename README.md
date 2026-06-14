@@ -5,7 +5,7 @@
 
 <div align="center">
 
-[![X](https://img.shields.io/badge/@SepantaJS-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
+[![X](https://img.shields.io/badge/@Arlo_xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
 &nbsp;
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sepanta-ziaei-71712b412)
 &nbsp;
