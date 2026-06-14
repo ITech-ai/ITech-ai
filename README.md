@@ -18,12 +18,12 @@
 
 ## `> whoami`
 
-```python
+
 I'm ARLO — a developer who builds things that matter.
 Currently deep in AI projects, pushing limits in Python and C++,
 crafting game worlds in Godot, and engineering web experiences from the ground up.
 Running Ubuntu, thinking in code, always learning — never stopping.
-```
+
 
 ---
 
