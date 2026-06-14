@@ -5,21 +5,11 @@
   <br/>
 
   <!-- Corrected Social & Analytics Badges -->
-  <a href="https://x.com/Arlo_xrg" target="_blank">
-    <img src="https://img.shields.io/badge/@Arlo__xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" alt="X"/>
-  </a>
-  
-  &nbsp;
-
-  <a href="https://www.linkedin.com/in/arlo-xrg-445057360/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
-  </a>
-  
-  &nbsp;
-
-  <a href="https://github.com/ITech-ai">
-    <img src="https://komarev.com/ghvc/?username=ITech-ai&label=VISITORS&style=for-the-badge&color=9945ff&labelColor=111111" alt="Visitors"/>
-  </a>
+[![X](https://img.shields.io/badge/@Arlo_xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Arlo_xrg)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/[[LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/arlo-xrg-445057360/)](https://x.com/Arlo_xrg))]
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
 </div>
 
 <br/>
