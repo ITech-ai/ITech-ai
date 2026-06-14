@@ -5,20 +5,13 @@
 
 <div align="center">
 
-<!-- LinkedIn -->
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
-  </a>
+[![X](https://img.shields.io/badge/@SepantaJS-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/SepantaJS)
+&nbsp;
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sepanta-ziaei-71712b412)
+&nbsp;
+![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
 
-  <!-- X (Twitter) -->
-  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" alt="X (Twitter)"/>
-  </a>
-
-  <!-- GitHub Profile Views Counter -->
-  <a href="https://github.com/ITech-ai">
-    <img src="https://komarev.com/ghvc/?username=ITech-ai&label=PROFILE+VIEWS&style=for-the-badge&color=444444&labelColor=111111" alt="Profile Views"/>
-  </a>
+  
 </div>
 
 <br/>
