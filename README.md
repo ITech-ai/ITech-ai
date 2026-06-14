@@ -1,70 +1,91 @@
 <div align="center">
 
-# 🟢 A R L O 🟢
+# 🥷 A R L O 🥷
+### ─── SYSTEM ARCHITECT & QUANTUM CODE ENGINEER ───
 
-**AI Developer • Game Developer • Web Designer • Software Engineer**
+`Advanced AI Systems` • `Low-Level Game Physics` • `Full-Stack Cyber Infrastructure` • `Core Automation`
 
-  <p align="center">
-    <a href="https://x.com/Arlo_Dev"><img src="https://img.shields.io/badge/X-%40Arlo__Dev-black?style=flat-square&logo=x&logoColor=white" alt="X"></a>
-    <a href="https://github.com/Arlo-Dev"><img src="https://img.shields.io/badge/GitHub-Arlo--Dev-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"></a>
-    <img src="https://komarev.com/badgecounter/toggle=visitors&style=flat-square&label=visitors&color=green" alt="visitors">
-  </p>
+<p align="center">
+  <a href="https://x.com/Arlo_Dev"><img src="https://img.shields.io/badge/X-SYSTEM__CORE-000000?style=for-the-badge&logo=x&logoColor=00FF00" alt="X"></a>
+  <a href="https://github.com/Arlo-Dev"><img src="https://img.shields.io/badge/GITHUB-OPERATOR-000000?style=for-the-badge&logo=github&logoColor=00FF00" alt="GitHub"></a>
+  <img src="https://komarev.com/badgecounter/toggle=visitors&style=for-the-badge&label=TARGETS_TRACKED&color=00FF00" alt="visitors">
+</p>
 
-┌─────────────────────────────────────────────────────────┐
-│  Arlo                                                   │
-│                                                         │
-│  Game Dev  •  Web Designer                              │
-│  Software Engineer                                      │
-│  Artificial Intelligence & DL Developer                 │
-│                                                         │
-│  "Code is for humans to read,                           │
-│   machines to run."                                     │
-└─────────────────────────────────────────────────────────┘
+┌──────────────────────────────────────────────────────────────┐
+│  OPERATOR: Arlo                                              │
+│  OS: Linux x86_64 / Tailored Local Environments              │
+│  MAIN DIRECTORY: /root/neural_networks/game_engines/         │
+│                                                              │
+│  [!] "Code is for humans to read, machines to run."         │
+└──────────────────────────────────────────────────────────────┘
 
 
 </div>
 
 ---
 
-### ⚠️ Caution
+### ⚡ COGNITIVE OVERRIDE
 
-## About Me
+## 💀 Executive Summary
 
-I don't just write code; I engineer digital worlds from scratch. My relationship with technology and programming isn't just about a career—it's a deep-rooted passion for understanding how machines think and how structures are built.
+I don’t just write scripts; I architect digital realities from the bare metal. For me, programming isn't a mere career—it’s an absolute obsession with understanding how machine logic operates and how complex structural ecosystems are engineered. 
 
-I operate as a Software Engineer, Game Developer, AI Developer, and Web Designer. Moving fluidly between different layers of technology is where I thrive. Whether it's managing low-level logic and memory in **C/C++**, architecting intelligent models through Advanced **Machine Learning** & **Deep Learning** in **Python**, or crafting specialized local, privacy-focused automation systems, I approach every project with strict precision.
-
-On the creative and visual front, I bridge the gap between aesthetics and functionality. From designing responsive, modern user interfaces using **HTML5, CSS3, and JavaScript**, to developing complex interactive systems and physics inside **Godot Engine** using **GDScript**, I ensure that every line of code serves a purpose.
-
-For me, programming is an art of continuous problem-solving. I am driven by an insatiable curiosity for computing and a commitment to building robust, high-performance software that pushes boundaries.
+I operate fluidly at the intersection of **Artificial Intelligence**, **Game Physics Engineering**, and **High-Performance Web Infrastructure**. Whether it's managing low-level memory allocation in **C/C++**, weaponizing sophisticated mathematical layers for Deep Learning models, or developing offline, privacy-first automation nodes, I execute every project with surgical precision.
 
 ---
 
-## 🛠️ Skills
+## 🦾 Core Operational Theatres
+
+### 🧠 Deep Architectures & Neural Intelligence
+* **Deep Learning Frameworks:** Structuring, optimizing, and deploying custom deep neural networks (CNNs, RNNs, and Transformers) from scratch using raw computational paradigms.
+* **Predictive ML Pipelines:** Heavy data manipulation, complex mathematical modeling, and algorithmic feature engineering to process high-throughput data.
+* **Local AI Nodes:** Building localized, privacy-focused automation engines tailored to run flawlessly on resource-constrained, low-end hardware with absolutely zero cloud-API reliance.
+
+### 🎮 Low-Level Game Engineering & Physics
+* **Godot Engine & Custom GDScript:** Advanced 2D/3D physics integration, deterministic collision masking, low-overhead custom TileMap pipelines, and ultra-responsive state-machine architectures.
+* **C++ Backend Performance:** Writing custom memory-managed modules and native code bindings where sub-millisecond execution speed is non-negotiable.
+
+### 🌐 Full-Stack Cyber Infrastructure
+* **Frontend Engineering:** Designing aggressive, responsive, and pixel-perfect tactical user interfaces using optimized vanilla HTML5, CSS3, and high-performance asynchronous JavaScript.
+* **System-Level Automation:** Utilizing advanced Python scripting to automate OS tasks, handle local networks, and bypass heavy, unnecessary software layers.
+
+---
+
+## 🛠️ The Tech Arsenal
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="45" height="45"/>&nbsp;
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="45" height="45"/>&nbsp;
+  <table style="border: none;">
+    <tr>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/godot/godot-original.svg" alt="godot" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="55" height="55"/></td>
+      <td><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3" width="55" height="55"/></td>
+    </tr>
+  </table>
 </div>
 
 ---
 
-## Interests & Mastery
+## 📊 Capabilities & System Metrics
 
-⚙️ **Programming** (95%)
-<img src="https://geps.dev/progress/95?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="Programming Progress" />
+⚡ **Low-Level Programming & Logic Execution** (98%)
+<img src="https://geps.dev/progress/98?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="Core Dev" />
 
-🤖 **AI & Deep Learning** (90%)
-<img src="https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="AI Progress" />
+🤖 **Neural Networks & Deep Learning Architectures** (95%)
+<img src="https://geps.dev/progress/95?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="AI Mastery" />
 
-🌐 **Web & Data** (85%)
-<img src="https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="Web Progress" />
+🎮 **Game Physics & Deterministic Simulation (Godot/C++)** (90%)
+<img src="https://geps.dev/progress/90?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="Game Dev Mastery" />
 
-🎮 **Game Dev (Godot/C++)** (80%)
-<img src="https://geps.dev/progress/80?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00"
+🌐 **Full-Stack Web Design & System Automation** (85%)
+<img src="https://geps.dev/progress/85?dangerColor=00ff00&warningColor=00ff00&successColor=00ff00" alt="Web Infrastructure" />
+
+---
+
+[SYSTEM STATUS: ACTIVE]
+[CURRENT TARGET: CONVERGING DEEP LEARNING WITH GODOT CORE PHYSICS]
+⚡ Breaking builds, pushing commits, and rewriting digital laws daily.
