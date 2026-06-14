@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-<img src="https://komarev.com/ghpvc/?username=ITech-ai&color=9945ff&style=for-the-badge&label=VISITORS&base=5000" alt="Visitors">  
+<img src="https://komarev.com/ghpvc/?username=ITech-ai&color=9945ff&style=for-the-badge&label=VISITORS&base=356" alt="Visitors">  
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25" /> `> whoami`
