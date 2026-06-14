@@ -1,7 +1,6 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/ITech-ai/ITech-ai/main/banner.svg" width="100%" alt="ARLO"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:111111,60:2a2a2a,100:666666&height=300&section=header&text=ARLO&fontSize=90&fontColor=e8e8e8&fontAlignY=42&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Learner&descAlignY=62&descSize=16&fontColor=e8e8e8&animation=fadeIn&stroke=888888&strokeWidth=1.5" alt="ARLO banner"/>
 </div>
-
 <br/>
 
 <div align="center">
