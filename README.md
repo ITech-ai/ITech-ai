@@ -1,17 +1,4 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,25:111111,60:2a2a2a,100:666666&height=300&section=header&text=ARLO&fontSize=90&fontColor=e8e8e8&fontAlignY=42&desc=Developer%20%C2%B7%20Builder%20%C2%B7%20Learner&descAlignY=62&descSize=16&fontColor=e8e8e8&animation=fadeIn&stroke=888888&strokeWidth=1.5" alt="ARLO banner"/>
-</div>
-<br/>
-
-<div align="center">
-
-
-این هم از نسخه نهایی و کامل شده کل فایل README.md برای گیت‌هابت. همه بخش‌هایی که با هم درست کردیم (از هدر کپسولی، بدج‌های جدید لینکدین و X با لینک‌های اصلاح‌شده، تا بخش whoami هکری، استک تخصصی و ماتریس مهارت‌ها) رو یکجا و تمیز توی این پکیج برات جمع کردم.
-
-کافیه کل کد زیر رو کپی کنی و مستقیم بریزی داخل فایل گیت‌هابت:
-
-Markdown
-<div align="center">
   <!-- Dynamic Waving Header Banner -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:111111,70:222222,100:444444&height=280&section=header&text=ARLO&fontSize=85&fontColor=ffffff&fontAlignY=45&desc=%5B%20SYSTEM%20ARCHITECT%20%C2%B7%20GAME%20DEVELOPER%20%C2%B7%20AI%20EXPLORER%20%5D&descAlignY=65&descSize=15&fontColor=dddddd&animation=fadeIn&stroke=555555&strokeWidth=1" alt="ARLO Banner"/>
 
@@ -35,19 +22,18 @@ Markdown
   </a>
 </div>
 
-
 <br/>
 
 ---
 
-## `> whoami`
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25" /> `> whoami`
 
-
-I'm ARLO — a developer who builds things that matter.
-Currently deep in AI projects, pushing limits in Python and C++,
-crafting game worlds in Godot, and engineering web experiences from the ground up.
-Running Ubuntu, thinking in code, always learning — never stopping.
-
+```yml
+identity : Arlo
+role     : Software Engineer & Game Developer
+os       : Ubuntu Linux (Thinking in terminal, executing in real life)
+mission  : Building low-level optimization tools, specialized AI, and immersive 2D/3D worlds.
+status   : Constantly breaking things to understand how they work from the inside out.
 
 ---
 
