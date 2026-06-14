@@ -60,14 +60,14 @@ Running Ubuntu, thinking in code, always learning — never stopping.
 
 ## `> skill_levels`
 
-```
+
 Python          ████████████████████░░   90%   ██ solid
 JavaScript      ██████████████████░░░░   80%   ██ solid
 C++             ████████████████░░░░░░   70%   ▓▓ growing
 GDScript        ███████████████░░░░░░░   65%   ▓▓ growing
 AI / ML         ██████████████░░░░░░░░   60%   ▓░ learning
 Frontend        █████████████░░░░░░░░░   55%   ▓░ learning
-```
+
 
 ---
 
