@@ -9,7 +9,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   &nbsp;&nbsp;&nbsp;
-  <img src="https://komarev.com/ghpvc/?username=ITech-ai&color=9945ff&style=for-the-badge&label=VISITORS&base=500000000000000000000000000000" alt="Visitors"></p>
+  <img src="https://komarev.com/ghpvc/?username=ITech-ai&color=9945ff&style=for-the-badge&label=VISITORS&base=5000000000" alt="Visitors"></p>
   
 ---
 
