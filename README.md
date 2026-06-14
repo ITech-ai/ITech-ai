@@ -5,29 +5,36 @@
 
 <div align="center">
 
-<div align="center">
 
-  <!-- X (Twitter) -->
+این هم از نسخه نهایی و کامل شده کل فایل README.md برای گیت‌هابت. همه بخش‌هایی که با هم درست کردیم (از هدر کپسولی، بدج‌های جدید لینکدین و X با لینک‌های اصلاح‌شده، تا بخش whoami هکری، استک تخصصی و ماتریس مهارت‌ها) رو یکجا و تمیز توی این پکیج برات جمع کردم.
+
+کافیه کل کد زیر رو کپی کنی و مستقیم بریزی داخل فایل گیت‌هابت:
+
+Markdown
+<div align="center">
+  <!-- Dynamic Waving Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:111111,70:222222,100:444444&height=280&section=header&text=ARLO&fontSize=85&fontColor=ffffff&fontAlignY=45&desc=%5B%20SYSTEM%20ARCHITECT%20%C2%B7%20GAME%20DEVELOPER%20%C2%B7%20AI%20EXPLORER%20%5D&descAlignY=65&descSize=15&fontColor=dddddd&animation=fadeIn&stroke=555555&strokeWidth=1" alt="ARLO Banner"/>
+
+  <br/>
+
+  <!-- Corrected Social & Analytics Badges -->
   <a href="https://x.com/Arlo_xrg" target="_blank">
     <img src="https://img.shields.io/badge/@Arlo__xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" alt="X"/>
   </a>
   
   &nbsp;
 
-  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/arlo-xrg-445057360/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
   </a>
   
   &nbsp;
 
-  <!-- GitHub Profile Visitors Counter -->
   <a href="https://github.com/ITech-ai">
     <img src="https://komarev.com/ghvc/?username=ITech-ai&label=VISITORS&style=for-the-badge&color=9945ff&labelColor=111111" alt="Visitors"/>
   </a>
+</div>
 
-</div>
-</div>
 
 <br/>
 
