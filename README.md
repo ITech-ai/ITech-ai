@@ -5,10 +5,20 @@
 
 <div align="center">
 
-[![Telegram](https://img.shields.io/badge/Telegram-@YOUR__HANDLE-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/YOUR_HANDLE)
-[![Discord](https://img.shields.io/badge/Discord-YOUR__TAG-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/YOUR_ID)
-[![Instagram](https://img.shields.io/badge/Instagram-@YOUR__HANDLE-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/YOUR_HANDLE)
+<!-- LinkedIn -->
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111" alt="LinkedIn"/>
+  </a>
 
+  <!-- X (Twitter) -->
+  <a href="https://x.com/YOUR_X_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/X_Profile-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=111111" alt="X (Twitter)"/>
+  </a>
+
+  <!-- GitHub Profile Views Counter -->
+  <a href="https://github.com/ITech-ai">
+    <img src="https://komarev.com/ghvc/?username=ITech-ai&label=PROFILE+VIEWS&style=for-the-badge&color=444444&labelColor=111111" alt="Profile Views"/>
+  </a>
 </div>
 
 <br/>
