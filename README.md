@@ -1,57 +1,43 @@
-<div align="center">
+MRXR-DEV/README.md
+MR.XR Banner
 
-<!-- Wave banner SVG -->
-<img src="./banner.svg" width="100%" alt="ARLO banner"/>
+X   GitHub   Visitors
 
-<br/>
+┌──────────────────────────────────────────┐
+|  MR.XR  •  Amir                          |
+|                                          |
+|  Game Dev  •  Web Designer               |
+|  Software Engineer                       |
+|  Co-Founder of INNERVOID                 |
+|  Artificial Intelligence & AI Developer  |
+|                                          |
+|  "Code is for humans to read,            |
+|   machines to run."                      |
+└──────────────────────────────────────────┘
+Caution
 
-### hey, i'm **ARLO**
-*developer · builder · always learning*
+About Me
+I don’t just write code; I engineer digital worlds from scratch. My relationship with technology and programming isn't just about a career—it's a deep-rooted passion for understanding how machines think and how structures are built.
 
-</div>
+I operate as a Software Engineer, Game Developer, AI Developer, and Web Designer. Moving fluidly between different layers of technology is where I thrive. Whether it's managing low-level logic and memory in C/C++, architecting back-end ecosystems with Python (Django, Flask, Node.js), or crafting intelligent behaviors through AI development, I approach every project with strict precision.
 
----
+On the creative and visual front, I bridge the gap between aesthetics and functionality. From designing responsive, modern user interfaces using HTML, CSS, and JavaScript, to developing complex interactive systems in gaming through Blueprints, I ensure that every line of code serves a purpose.
 
-```
-  currently working on → AI projects
-  environment          → Ubuntu · Windows
-  engine               → Godot + GDScript
-  learning             → going deeper every day
-```
+For me, programming is an art of continuous problem-solving. I am driven by an insatiable curiosity for computing and a commitment to building robust, high-performance software that pushes boundaries.
 
----
+🛠️ Skills
+HTML5 CSS3 JavaScript Python C C++ NodeJS Godot Unreal Engine
 
-### stack
+Interests & Mastery
+⚙️ Programming (90%)
 
-<div align="center">
+🎵 Music (100%)
 
-![Python](https://img.shields.io/badge/Python-90%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
-![C++](https://img.shields.io/badge/C++-70%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
-![GDScript](https://img.shields.io/badge/GDScript-65%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
-![AI%2FML](https://img.shields.io/badge/AI%2FML-60%25-3d3d3d?style=flat-square&labelColor=2a2a2a)
+🌐 Web & Data (80%)
 
-</div>
+🎮 Gaming (75%)
 
-```
-Python        ████████████████████░░  90%
-JavaScript    ██████████████████░░░░  80%
-C++           ████████████████░░░░░░  70%
-GDScript      ███████████████░░░░░░░  65%
-AI / ML       ██████████████░░░░░░░░  60%
-Frontend      █████████████░░░░░░░░░  55%
-```
+🕹️ Game Dev (65%)
 
----
 
-### focus
-
-> building things with AI · web dev · game dev with Godot · going deeper on C++
-
----
-
-<div align="center">
-
-*actively building · always learning · never stopping*
-
-</div>
+"Machines outlive flesh, but code outlives time; I don't just build, I leave an empire in the syntax."
