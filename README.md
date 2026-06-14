@@ -1,75 +1,41 @@
-@keyframes flowing-waves {
-  0% { transform: translateY(0%); }
-  50% { transform: translateY(10px); }
-  100% { transform: translateY(0%); }
-}
+<div align="center">
 
-.wave-container {
-  overflow: hidden;
-}
+# 🚀 Hello, I'm Arlo
 
-.wave-bar {
-  display: block;
-  width: 100%;
-  height: 20px;
-  background-color: #3e8eb9;
-  animation: flowing-waves 1.5s ease-in-out infinite;
-}
-Animation 2: Pulsing Waves (Energy and Dynamism)
-This animation features pulses of energy that emanate from the waves, creating a dynamic and engaging effect.
+### Full-Stack AI Engineer & Developer
+*Building the future with code, one commit at a time.*
 
-CSS
-@keyframes pulsing-waves {
-  0% { opacity: 1; transform: scale(1); }
-  50% { opacity: 0.5; transform: scale(1.1); }
-  100% { opacity: 1; transform: scale(1); }
-}
+---
 
-.wave-container {
-  overflow: hidden;
-}
-
-.wave-bar {
-  display: block;
-  width: 100%;
-  height: 20px;
-  background-color: #3e8eb9;
-  animation: pulsing-waves 2s ease-out infinite;
-}
-Animation 3: Rippling Waves (Water-like Calm)
-This animation features subtle ripples that create a calm and relaxing effect, like a gently flowing river.
-
-CSS
-@keyframes rippling-waves {
-  0% { opacity: 1; transform: translateY(0%); }
-  50% { opacity: 0.7; transform: translateY(5px); }
-  100% { opacity: 1; transform: translateY(0%); }
-}
-
-.wave-container {
-  overflow: hidden;
-}
-
-.wave-bar {
-  display: block;
-  width: 100%;
-  height: 20px;
-  background-color: #3e8eb9;
-  animation: rippling-waves 1s ease-in-out infinite;
-}
-How to use these animations:
-Copy and paste the CSS code for the desired animation into your GitHub README.md file.
-
-In the HTML section of your README, wrap the code you want to animate in a div with the class wave-container.
-
-For example, if you want to use the Flowing Waves animation on the entire tech stack section, you would use this code:
-
-HTML
-<div class="wave-container">
+### 🛠 Tech Stack & Skills
+<p align="center">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godotengine&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/AI-000000?style=for-the-badge&logo=openai&logoColor=white" />
+</p>
+
+---
+
+### 📈 My Stats & Progress
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Arlo&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="Arlo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arlo&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</div>
+
+---
+
+### 👨‍💻 Currently Working On
+- 🤖 **AI Projects:** Developing custom AI models and integrations.
+- 🎮 **Game Dev:** Leveraging Godot Engine & GDScript for high-performance indie games.
+- 💻 **Systems:** Deep-diving into C++ optimization and Linux environment mastery.
+- 🚀 **Learning:** Always expanding the stack to stay on the bleeding edge.
+
+---
+
+### ⚡ Fun Fact
+*I don't just write code; I build systems that challenge the limits of performance and intelligence.*
+
 </div>
