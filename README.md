@@ -4,11 +4,11 @@
   <a href="https://twitter.com/Arlo_xrg">
     <img src="https://img.shields.io/badge/@Arlo_xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white" alt="X">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.linkedin.com/in/arlo-xrg-445057360/">
     <img src="https://img.shields.io/badge/LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;
 <img src="https://komarev.com/ghpvc/?username=ITech-ai&color=9945ff&style=for-the-badge&label=VISITORS&base=356" alt="Visitors">  
 
 
