@@ -10,7 +10,7 @@
   </a>
   &nbsp;&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=ITech-ai&color=9945ff&style=for-the-badge&label=VISITORS&base=356" alt="Visitors">  
----
+
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Writing%20Hand.png" width="25" /> `> whoami`
 
