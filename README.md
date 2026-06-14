@@ -17,19 +17,11 @@
 
 ## `> whoami`
 
-```python
-class ARLO:
-    name        = "ARLO"
-    github      = "ITech-ai"
-    role        = ["developer", "builder", "learner"]
-    os          = ["Ubuntu", "Windows"]
-    engine      = "Godot + GDScript"
-    focus       = "AI Projects"
-    status      = "always learning..."
+I'm ARLO — a developer who builds things that matter.
+Currently deep in AI projects, pushing limits in Python and C++,
+crafting game worlds in Godot, and engineering web experiences from the ground up.
+Running Ubuntu, thinking in code, always learning — never stopping.
 
-    def __init__(self):
-        self.coffee = float("inf")
-```
 
 ---
 
