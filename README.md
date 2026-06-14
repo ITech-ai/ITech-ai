@@ -62,12 +62,12 @@ Running Ubuntu, thinking in code, always learning — never stopping.
 
 
 ```
-Python          ████████████████████░░   90%   ██ solid
-JavaScript      ██████████████████░░░░   80%   ██ solid
-C++             ████████████████░░░░░░   70%   ▓▓ growing
-GDScript        ███████████████░░░░░░░   65%   ▓▓ growing
-AI / ML         ██████████████░░░░░░░░   60%   ▓░ learning
-Frontend        █████████████░░░░░░░░░   55%   ▓░ learning
+🐍 Python     [█████████████████████████████████████░░]  90%  •  SOLID
+🟨 JavaScript [████████████████████████████████░░░░░░░]  80%  •  SOLID
+🔵 C++        [██████████████████████████░░░░░░░░░░░░]  70%  •  GROWING
+🤖 GDScript   [████████████████████████░░░░░░░░░░░░░░]  65%  •  GROWING
+🧠 AI / ML    [██████████████████████░░░░░░░░░░░░░░░░]  60%  •  LEARNING
+🎨 Frontend   [████████████████████░░░░░░░░░░░░░░░░░░]  55%  •  LEARNING
 ```
 
 ---
