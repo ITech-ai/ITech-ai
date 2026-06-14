@@ -7,7 +7,7 @@
   <!-- Corrected Social & Analytics Badges -->
 [![X](https://img.shields.io/badge/@Arlo_xrg-0d0d0d?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Arlo_xrg)
 &nbsp;
-[![LinkedIn](https://img.shields.io/badge/[[LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/arlo-xrg-445057360/)](https://x.com/Arlo_xrg))]
+[![LinkedIn]([https://img.shields.io/badge/[[LinkedIn-1a0030?style=for-the-badge&logo=linkedin&logoColor=white](https://www.linkedin.com/in/arlo-xrg-445057360/)](https://x.com/Arlo_xrg)](https://www.linkedin.com/in/arlo-xrg-445057360/))]
 &nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=SepJs&color=9945ff&style=for-the-badge&label=VISITORS)
 </div>
