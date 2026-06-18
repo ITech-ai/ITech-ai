@@ -6,32 +6,32 @@
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/arlo-xrg)
-[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/arlo_xrg)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arlo-xrg-445057360/)
+[![X](https://img.shields.io/badge/X-0a0a0a?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Arlo_xrg)
 [![Profile Views](https://komarev.com/ghpvc/?username=Arlo-xrg&style=for-the-badge&color=1c1c1c)]()
 
 </div>
 
 ---
 
-## 🌫️ About Me
+>## 🌫️ About Me
 
 A developer operating between intelligence, systems, and interactive worlds.  
 Focused on building AI-driven mechanics, game systems, and clean scalable architecture.
 
 ---
 
-## 🜏 Core Roles
+>## 🜏 Core Roles
 
-- 🎮 Game Developer (Godot Engine)  
-- 🧠 AI Developer  
-- ⚙️ System Architect  
-- 🎨 Interactive UI Designer  
-- 🧩 Automation Engineer  
+- Game Developer (Godot Engine)  
+- AI Developer  
+- System Architect  
+- Interactive UI Designer  
+- Automation Engineer  
 
 ---
 
-## 🧬 Tech Stack
+>## 🧬 Tech Stack
 
 ```
 HTML       ███████████░ 95%
@@ -68,7 +68,6 @@ Code must have purpose.
 
 <div align="center">
 
-**Arlo-xrg**  
-AI Developer • Game Developer • System Architect  
+# `Arlo Xrg`
 
 </div>
