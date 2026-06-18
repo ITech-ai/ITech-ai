@@ -14,7 +14,7 @@
 
 ---
 
->## 🌫️ About Me
+>## ∑ About Me
 
 A developer operating between intelligence, systems, and interactive worlds.  
 Focused on building AI-driven mechanics, game systems, and clean scalable architecture.
@@ -31,7 +31,7 @@ Focused on building AI-driven mechanics, game systems, and clean scalable archit
 
 ---
 
->## 🧬 Tech Stack
+>## 𑗇 Tech Stack
 
 ```
 HTML       ███████████░ 95%
@@ -44,7 +44,7 @@ JSON       ████████████ 98%
 
 ---
 
-## 🌑 GitHub Stats
+>## ፠ GitHub Stats
 
 <div align="center">
 
@@ -62,7 +62,7 @@ JSON       ████████████ 98%
 
 ---
 
-## 🌫️ Philosophy
+>## ∯ Philosophy
 
 Simplicity is intelligence.  
 Systems should feel alive.  
@@ -72,6 +72,6 @@ Code must have purpose.
 
 <div align="center">
 
-# `Arlo Xrg`
+### `Arlo Xrg`
 
 </div>
