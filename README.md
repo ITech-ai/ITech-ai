@@ -33,14 +33,18 @@ Focused on building AI-driven mechanics, game systems, and clean scalable archit
 
 >## 𑗇 Tech Stack
 
-```
-HTML       ███████████░ 95%
-CSS        ███████████░ 95%
-JavaScript ██████████░░ 90%
-Python     ██████████░░ 90%
-GDScript   █████████░░░ 85%
-JSON       ████████████ 98%
-```
+<div align="center">
+
+| Language | Mastery |
+|----------|---------|
+| HTML | █████████████░ 96% |
+| CSS | █████████████░ 96% |
+| JavaScript | ████████████░ 92% |
+| Python | ████████████░ 92% |
+| GDScript (Godot) | ███████████░ 88% |
+| JSON | ██████████████ 99% |
+
+</div>
 
 ---
 
