@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:141414,50:2b2b2b,75:3a3a3a,100:1c1c1c&height=260&section=header&text=𝐀𝐫𝐥𝐨-𝐱𝐫𝐠%0AAI%20Developer%20%E2%80%A2%20Game%20Developer%20%E2%80%A2%20System%20Architect&fontSize=38&fontColor=ffffff&animation=fadeIn" />
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,25:1a1a1a,60:3a3a3a,100:6b6b6b&height=340&section=header&text=𝐀𝐫𝐥𝐨-𝐱𝐫𝐠&fontSize=78&fontColor=ffffff&fontAlignY=42&desc=AI%20Developer%20%C2%B7%20Game%20Developer%20%C2%B7%20System%20Architect&descAlignY=60&descSize=16&animation=fadeIn&stroke=6b6b6b&strokeWidth=2)](https://github.com/Arlo-xrg)
 
 </div>
 
