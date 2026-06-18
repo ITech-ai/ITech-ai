@@ -48,9 +48,13 @@ JSON       ████████████ 98%
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Arlo-xrg&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=bbbbbb" />
+<img src="https://github-readme-stats.vercel.app/api?username=Arlo-xrg&show_icons=true&theme=dark&hide_border=true&bg_color=0d0d0d&title_color=ffffff&icon_color=bbbbbb" height="170"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arlo-xrg&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=999999&fire=ffffff&currStreakLabel=ffffff" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arlo-xrg&theme=dark&hide_border=true&background=0d0d0d&stroke=ffffff&ring=999999&fire=ffffff&currStreakLabel=ffffff" height="170"/>
+
+</div>
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Arlo-xrg&bg_color=0d0d0d&color=ffffff&line=777777&point=ffffff&hide_border=true" />
 
