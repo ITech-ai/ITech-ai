@@ -35,14 +35,14 @@ Focused on building AI-driven mechanics, game systems, and clean scalable archit
 
 <div align="center">
 
-| Language | Mastery |
-|----------|---------|
-| HTML | █████████████░ 96% |
-| CSS | █████████████░ 96% |
-| JavaScript | ████████████░ 92% |
-| Python | ████████████░ 92% |
-| GDScript (Godot) | ███████████░ 88% |
-| JSON | ██████████████ 99% |
+|     Language     |       Mastery       |
+|------------------|---------------------|
+| HTML             | ██████████████░ 96% |
+| CSS              | ██████████████░ 96% |
+| JavaScript       | █████████████░░ 92% |
+| Python           | █████████████░░ 92% |
+| GDScript (Godot) | ███████████░░░░ 88% |
+| JSON             | ███████████████ 99% |
 
 </div>
 
